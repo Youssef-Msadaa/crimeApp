@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/transparent_black"
+    >
+
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/Home"
+        android:title="Home"
+        >
+
+    </item>
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/stats"
+        android:title="Stats"
+        >
+
+    </item>
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/decl"
+        android:title="Déclaration"
+        >
+
+    </item>
+    <item
+        android:icon="@drawable/nav_about"
+        android:id="@+id/info"
+        android:title="FAQ"
+        >
+
+    </item>
+    <item
+        android:icon="@drawable/baseline_contact_phone_24"
+        android:id="@+id/contact"
+        android:title="contact"
+        >
+
+    </item>
+    <item
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:id="@+id/logout"
+        android:title="LogOut"
+        >
+
+    </item>
+</menu>
